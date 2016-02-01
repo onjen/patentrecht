@@ -14,6 +14,13 @@ Verdienste des Erfinders sollen belohnt werden:
   3. Naturrechts- oder Eigentumstheorie (geistiges Eigentum durch Gesetze schützen)
   4. Vertrags- oder Offenbarungstheorie (damit geistige Arbeiten nicht geheim gehalten werden)
 
+Patentfähige Erfindung
+----------------------
+## Erfindung (Lehre zum technische Handeln)
+## Neuheit
+## Erfinderische Tätigkeit
+## Gewerbliche Anwendbarkeit
+
 2 Gebrauchmusterrecht
 ===============================
 
