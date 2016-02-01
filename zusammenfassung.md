@@ -1,4 +1,4 @@
-1. Kapitel: Entstehung, Inhalt und Wirkung des Patentrechts
+1 Kapitel: Entstehung, Inhalt und Wirkung des Patentrechts
 ==========================================================
 Schützen der von Menschen geschaffenen geistigen bzw. immateriellen Güter für deren eigene Zwecke und vor der unbefugten Benutzung durch Dritte zu sichern
 -> Also gewerblicher Rechtsschutz:
@@ -14,11 +14,11 @@ Verdienste des Erfinders sollen belohnt werden:
 3. Naturrechts- oder Eigentumstheorie (geistiges Eigentum durch Gesetze schützen)
 4. Vertrags- oder Offenbarungstheorie (damit geistige Arbeiten nicht geheim gehalten werden)
 
-2. Kapitel: Gebrauchmusterrecht
+2 Kapitel: Gebrauchmusterrecht
 ===============================
 
-3. Kapitel: Lizenzvertragsrecht
+3 Kapitel: Lizenzvertragsrecht
 ===============================
 
-4. Kapitel: Das Arbeitnehmererfinderrecht
+4 Kapitel: Das Arbeitnehmererfinderrecht
 =========================================
