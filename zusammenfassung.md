@@ -16,10 +16,10 @@ Verdienste des Erfinders sollen belohnt werden:
 
 Patentfähige Erfindung
 ----------------------
-## Erfindung (Lehre zum technische Handeln)
-## Neuheit
-## Erfinderische Tätigkeit
-## Gewerbliche Anwendbarkeit
+#### Erfindung (Lehre zum technische Handeln)
+#### Neuheit
+#### Erfinderische Tätigkeit
+#### Gewerbliche Anwendbarkeit
 
 2 Gebrauchmusterrecht
 ===============================
