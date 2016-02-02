@@ -27,6 +27,7 @@ Wiedergabe von Informationen
 **Ausnahmen von der Patentierbarkeit:**  
 Verwertung würde gegen öffentliche Ordnung oder die guten Sitten verstoßen  
 z.B. Klonen von menschl. Lebewesen, genetische Identität, Verwednung von Embryonen zu industriellen oder kommerziellen Zwecken, Veränderung der genetischen Identität von Tieren, durch welche diese leiden.
+
 #### Neuheit
 = Gehört **nicht** zum Stand der Technik  
 **Stand der Technik** = alle Kenntnisse die vor dem für den Zeitrang der Anmeldung maßgeblichen Tag der Öffentlichkeit zugänglich gemacht worden sind (schriftlich, mündlich oder sonstige Weise)  
@@ -36,11 +37,12 @@ Geheimhaltungsvereinbarungen schließen die Öffentlichkeit aus
   * Ausstellungspriorität: 6 Monate rückwirkend
   * Missbrauchsausnahme: Bei widerrechtlicher Veröffentlichung durch dritte
   * nachveröffentlichte Patentanmeldung  
+
 #### Erfinderische Tätigkeit
 Wenn sie sich für den Fachmann **nicht in naheliegender Weise** aus dem Stand der Technik ergibt.  
 **Fachmann** = Sachverständiger mit durchschnittlichem Wissen und Können, den man üblicherweise mit der Lösung der Aufgabe betrauen würde  
 **nicht naheliegend wenn** es einem Durchschnittsfachmann am Prioritätstag nicht möglich gewesen ist.  
-**Bestimmungsmethode:**  
+**Bestimmungsmethode:**
   1. Merkmale der beanspruchten Erfindung
   2. Ermittlung des nächstliegenden St.d.T.
   3. Ermittlung der unterscheidenden Merkmale
@@ -49,6 +51,7 @@ Wenn sie sich für den Fachmann **nicht in naheliegender Weise** aus dem Stand d
   6. Ermittlung der aus dem St.d.T. bekannten Wirkungen, die mit den in 5 ermittelten Merkmalen erzielt werden
   7. Vergleich zwischen den Wirkungen nach 4 und 6
 Wenn in 7 Übereinstimmung zeigt, fehlt es an erfinderischer Tätigkeit
+
 #### Gewerbliche Anwendbarkeit
 
 2 Gebrauchmusterrecht
