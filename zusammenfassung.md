@@ -17,6 +17,13 @@ Verdienste des Erfinders sollen belohnt werden:
 Patentfähige Erfindung
 ----------------------
 #### Erfindung (Lehre zum technische Handeln)
+Tätigkeit technischer Natur, realisierbar und wiederholbar
+
+**NICHT Erfindungen**:  
+Entdeckungen, wiss. Theorien, math. Methoden  
+ästhetische Formschöpfungen  
+Verfahren für gedankl. Tätigkeiten, Programm für EDV  
+Wiedergabe von Informationen
 #### Neuheit
 #### Erfinderische Tätigkeit
 #### Gewerbliche Anwendbarkeit
