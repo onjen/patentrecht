@@ -35,7 +35,7 @@ Geheimhaltungsvereinbarungen schließen die Öffentlichkeit aus
 **Ausnahmen zum Zeitrang des Anmeldetags:**  
   * Ausstellungspriorität: 6 Monate rückwirkend
   * Missbrauchsausnahme: Bei widerrechtlicher Veröffentlichung durch dritte
-  * nachveröffentlichte Patentanmeldung
+  * nachveröffentlichte Patentanmeldung  
 #### Erfinderische Tätigkeit
 Wenn sie sich für den Fachmann **nicht in naheliegender Weise** aus dem Stand der Technik ergibt.  
 **Fachmann** = Sachverständiger mit durchschnittlichem Wissen und Können, den man üblicherweise mit der Lösung der Aufgabe betrauen würde  
@@ -47,8 +47,8 @@ Wenn sie sich für den Fachmann **nicht in naheliegender Weise** aus dem Stand d
   4. Ermittlung der Wirkungen die durch die unterscheidenden Merkmale erzielt werden
   5. Ermittlung der unterscheidenden Merkmale aus dem einschlägigen St.d.T.
   6. Ermittlung der aus dem St.d.T. bekannten Wirkungen, die mit den in 5 ermittelten Merkmalen erzielt werden
-  7. Verlgiech zwischen den Wirkungen nach 4 und 6
--> Wenn in 7 Übereinstimmung zeigt, fehlt es an erfinderischer Tätigkeit
+  7. Vergleich zwischen den Wirkungen nach 4 und 6
+Wenn in 7 Übereinstimmung zeigt, fehlt es an erfinderischer Tätigkeit
 #### Gewerbliche Anwendbarkeit
 
 2 Gebrauchmusterrecht
