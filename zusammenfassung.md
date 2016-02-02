@@ -12,10 +12,10 @@ Verdienste des Erfinders sollen belohnt werden:
   1. Belohungstheorie (z.B Vergütung nach Arbeitnehmererfindergesetz)
   2. Ansporntheorie (sodass ein stetiger Entwicklungsprozess stattfindet)
   3. Naturrechts- oder Eigentumstheorie (geistiges Eigentum durch Gesetze schützen)
-  4. Vertrags- oder Offenbarungstheorie (damit geistige Arbeiten nicht geheim gehalten werden)
+  4. Vertrags- oder Offenbarungstheorie (damit geistige Arbeiten nicht geheim gehalten werden)  
 
-Patentfähige Erfindung
-----------------------
+Patentfähige Erfindung (1. Vorlesung)
+-------------------------------------
 #### Erfindung (Lehre zum technische Handeln)
 **Erfindung:**  
 Tätigkeit technischer Natur, realisierbar und wiederholbar  
@@ -26,7 +26,7 @@ Verfahren für gedankl. Tätigkeiten, Programm für EDV
 Wiedergabe von Informationen
 **Ausnahmen von der Patentierbarkeit:**  
 Verwertung würde gegen öffentliche Ordnung oder die guten Sitten verstoßen  
-z.B. Klonen von menschl. Lebewesen, genetische Identität, Verwednung von Embryonen zu industriellen oder kommerziellen Zwecken, Veränderung der genetischen Identität von Tieren, durch welche diese leiden.
+z.B. Klonen von menschl. Lebewesen, genetische Identität, Verwednung von Embryonen zu industriellen oder kommerziellen Zwecken, Veränderung der genetischen Identität von Tieren, durch welche diese leiden.  
 
 #### Neuheit
 = Gehört **nicht** zum Stand der Technik  
@@ -42,7 +42,7 @@ Geheimhaltungsvereinbarungen schließen die Öffentlichkeit aus
 Wenn sie sich für den Fachmann **nicht in naheliegender Weise** aus dem Stand der Technik ergibt.  
 **Fachmann** = Sachverständiger mit durchschnittlichem Wissen und Können, den man üblicherweise mit der Lösung der Aufgabe betrauen würde  
 **nicht naheliegend wenn** es einem Durchschnittsfachmann am Prioritätstag nicht möglich gewesen ist.  
-**Bestimmungsmethode:**
+**Bestimmungsmethode:**  
   1. Merkmale der beanspruchten Erfindung
   2. Ermittlung des nächstliegenden St.d.T.
   3. Ermittlung der unterscheidenden Merkmale
@@ -50,9 +50,15 @@ Wenn sie sich für den Fachmann **nicht in naheliegender Weise** aus dem Stand d
   5. Ermittlung der unterscheidenden Merkmale aus dem einschlägigen St.d.T.
   6. Ermittlung der aus dem St.d.T. bekannten Wirkungen, die mit den in 5 ermittelten Merkmalen erzielt werden
   7. Vergleich zwischen den Wirkungen nach 4 und 6
-Wenn in 7 Übereinstimmung zeigt, fehlt es an erfinderischer Tätigkeit
+Wenn in 7 Übereinstimmung zeigt, fehlt es an erfinderischer Tätigkeit s. ab Folie 18 Kap1_2  
 
 #### Gewerbliche Anwendbarkeit
+
+Gilt als gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft hergestellt oder benutzt werden kann.  
+Beispiel für fehlende gewerbliche Anwendbarkeit: Verfahren zur Empfängnisverhütung, perpetuum mobile  
+
+Das Patenterteilungsverfahren (2. Vorlesung)
+--------------------------------------------
 
 2 Gebrauchmusterrecht
 ===============================
