@@ -42,7 +42,7 @@ Geheimhaltungsvereinbarungen schließen die Öffentlichkeit aus
 Wenn sie sich für den Fachmann **nicht in naheliegender Weise** aus dem Stand der Technik ergibt.  
 **Fachmann** = Sachverständiger mit durchschnittlichem Wissen und Können, den man üblicherweise mit der Lösung der Aufgabe betrauen würde  
 **nicht naheliegend wenn** es einem Durchschnittsfachmann am Prioritätstag nicht möglich gewesen ist.  
-**Bestimmungsmethode:**  
+**Bestimmungsmethode (Aufgabe-Lösungs-Ansatz"):**  
   1. Merkmale der beanspruchten Erfindung
   2. Ermittlung des nächstliegenden St.d.T.
   3. Ermittlung der unterscheidenden Merkmale
@@ -68,7 +68,10 @@ Das Patenterteilungsverfahren (2. Vorlesung)
 
 **Innere Priorität:** Falls innerhalb eines Jahres ab dem Anmeldetag wesentliche Änderungen oder Verbesserungen entwickelt worden sind, kann der Anmelder neu anmelden und den Zeitrang (Priorität) der früheren Anmeldung (Patent oder Gebrauchsmuster) beanspruchen.  
 
-Patentanmeldung **muss** enthalten:  
+**Anmeldetag** ist der Tag, an dem die notwendigen Unterlagen beim Patentamt oder beim Patentinformationszentrum eingegangen sind (elektronisch, via Fax oder Post)  
+Man erhält eine Empfangsbestätigung
+
+####Patentanmeldung **muss** enthalten:  
   1. Namen des Anmelders  
     * Privat-Person, Gesellschaft, etc.
     * Sitz des Anmelders
@@ -76,7 +79,7 @@ Patentanmeldung **muss** enthalten:
   2. Antrag auf Erteilung eines Patents
     * formlos (schriftl.) möglich
     * DPMA (deutsches Patent- und Markenamt) bietet Formular an
-  3. einen oder mehrere Patentansprüche
+  3. einen oder mehrere Patentansprüche (s.o.)
     * Angabe dessen, was als patentfähig unter Schutz gestellt werden soll
     * Hauptansprüche, Nebenansprüche, Unteransprüche, Erzeugnisansprüche, Verfahrensansprüche, Verwendungsansprüche
   4. Beschreibung der Erfindung
@@ -84,13 +87,56 @@ Patentanmeldung **muss** enthalten:
 
 Jedenfalls nachgreicht werden müssen:
 
-  6. Anmeldegebühr (60€)
-  7. Zusammenfassung
+  6. Anmeldegebühr (innerhalb von **3 Monaten** nach Anmeldetag, sonst gilt die Anmeldung als zurückgenommen (40 bzw. 60€)
+  7. Zusammenfassung (innerhalb von **15 Monaten** nach Anmelde-/Prioritätstag einzureichen)
   8. Erfinderbennenung (Frist 15 Monate ab Anmelde- bzw. Prioritätstag)
   9. ggf. Übersetzung bei einem nicht-deutschen Anmeldungstext
   10. ggf. Prioritätserklärung bzw. -unterlagen
 
 Das Recht auf das Patent hat der **Erfinder oder die Erfinder**. Wenn mehrere unabhängig voneinander die Erfindung gemacht haben, steht das Recht dem zu, der **zuerst beim Patentamt angemeldet hat.**
+
+#####Zu 3: Patentanspruch
+
+**Inhalt eines Patentanspruchs:** Angabe dessen was als patentfähig unter Schutz gestellt werden soll  
+**Hauptanspruch:** Grundsätzlich der erste Patentanspruch, steht bei der Prüfung der Patentfähigkeit im Mittelpunkt und bestimmt was durch das Patent unter Schutz gestellt sein soll.  
+**Unteranspruch:** Rückbezogen auf einen Hauptanspruch (z.B. "Vorrichtung nach dem Patentanspruch 1"), zusätzlich angegebene Merkmale. Schutzumfang des Hauptanspruchs wird beschränkt.  
+**Nebenanspruch:** Schützt eine etwas andere Erfindung als der Hauptanspruch, unabhängig von anderen Patentansprüchen formuliert. zum Beispiel eine andere Lösung desselben technischen Problems beschreibt.  
+**Aufbau eines Anspruchs (zweiteilig):** Oberbegriff (Angabe der Merkmale, die zum St.d.T. gehören), Kennzeichnender Teil (Angabe der Merkmale, für die in Verbindung mit den Merkmalen des Oberbegriffs Schutz begehrt wird)  
+Getrennt durch "dadurch kennzeichnet"  
+
+#####Zu 4: Beschreibung
+Muss von einem Fachmann verstanden und ausgeführt werden können. St.d.T muss angegeben sein.  
+Inhalt der Beschreibung legt Grenze (mit Ansprüchen und Zeichnungen), was in der Anmeldung offenbart wird und daher unter Schutz gestellt werden kann.
+
+Aufbau der Beschreibung:
+  1. dem Anmelder bekannter St.d.T.
+  2. der Erfindung zu Grunde liegendes Problem (Aufgabe)
+  3. die beanspruchte Erfindung (Lösung)
+  4. Vorteile der Erfindung
+  5. Weiterbildungen der Erfindung
+  6. Ausführungsbeispiele (ggf. mit Figuren)
+
+##### Zu 5: Zeichnungen
+Dienen der Veranschaulichung einer Ausführungsvariante der Erfindung.  
+Strichzeichnungen, also keine farbigen Abbildungen oder schattierte Darstellungen, einzelne Teile durch Bezugsziffern kennzeichnen, die in Beschreibung und/oder den Ansprüchen aufzunehmen sind.  
+
+##### Zu 7: Zusammenfassung  
+Innerhalb von **15 Monaten** nach Anmeldetag einzureichen.  
+Umfasst Titel der Erfindung, Kurzdarstellung und eine signifikante Figur  
+Dient der schnellen Orientierung, wird auf der ersten Seite veröffentlicht  
+
+##### Zu 8: Erfinderbenennung
+Anspruch folgt aus Erfinderpersönlichkeitsrechts  
+Innerhalb von **15 Monaten** einzureichen, muss bei Patenterteilung zwingend vorliegen  
+Gibt alle Erfinder unter Benennung ihrer Privatanschrift an  
+Antrag auf NICHT-Benennung ist möglich
+
+#### Die Offensichtlichkeitsprüfung
+DPMA kontrolliert die Anmeldung auf Mängel (formell und/oder materiell), weißt den Erfinder darauf hin mit Frist zur Beseitigung. Falls Erfinder die Mängel in der Frist nicht beseitigt, droht die Zurückweisung der Anmeldung. Keine inhaltliche Prüfung!
+
+#### Die Offenbarung der Erfindung
+Fachmann muss in der Lage sein, die zum Patent anzumeldende technische Lehre auszuführen. Unterlagen für die Beurteilung des Offenbarungsgehaltes sind alle eingereichten UNterlagen, d.h Ansprüche, Beschreibungen und Zeichnungen. Alle Aspekte in diesen Unterlagen und die sich für den Fachmann objektiv ergeben sind offenbart.
+
 
 2 Gebrauchmusterrecht
 ===============================
