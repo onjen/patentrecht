@@ -59,6 +59,38 @@ Beispiel für fehlende gewerbliche Anwendbarkeit: Verfahren zur Empfängnisverh�
 
 Das Patenterteilungsverfahren (2. Vorlesung)
 --------------------------------------------
+#### Vobereitungen
+  * Vorab-Recherche (Fachliteratur, online-Datenbanken...)
+  * Entscheidung Patent- oder Gebrauchsmusteranmeldung
+  * Vorbereitung der Anmeldeunterlagen (Beschr., Zeichnungen...)
+  * Entscheidung über Anmelder
+  * Entscheidung über Anmeldeamt  
+
+**Innere Priorität:** Falls innerhalb eines Jahres ab dem Anmeldetag wesentliche Änderungen oder Verbesserungen entwickelt worden sind, kann der Anmelder neu anmelden und den Zeitrang (Priorität) der früheren Anmeldung (Patent oder Gebrauchsmuster) beanspruchen.  
+
+Patentanmeldung **muss** enthalten:  
+  1. Namen des Anmelders  
+    * Privat-Person, Gesellschaft, etc.
+    * Sitz des Anmelders
+    * bei Firmen ggf. Handelsregisterauszug
+  2. Antrag auf Erteilung eines Patents
+    * formlos (schriftl.) möglich
+    * DPMA (deutsches Patent- und Markenamt) bietet Formular an
+  3. einen oder mehrere Patentansprüche
+    * Angabe dessen, was als patentfähig unter Schutz gestellt werden soll
+    * Hauptansprüche, Nebenansprüche, Unteransprüche, Erzeugnisansprüche, Verfahrensansprüche, Verwendungsansprüche
+  4. Beschreibung der Erfindung
+  5. in Bezug genommene Zeichnugen  
+
+Jedenfalls nachgreicht werden müssen:
+
+  6. Anmeldegebühr (60€)
+  7. Zusammenfassung
+  8. Erfinderbennenung (Frist 15 Monate ab Anmelde- bzw. Prioritätstag)
+  9. ggf. Übersetzung bei einem nicht-deutschen Anmeldungstext
+  10. ggf. Prioritätserklärung bzw. -unterlagen
+
+Das Recht auf das Patent hat der **Erfinder oder die Erfinder**. Wenn mehrere unabhängig voneinander die Erfindung gemacht haben, steht das Recht dem zu, der **zuerst beim Patentamt angemeldet hat.**
 
 2 Gebrauchmusterrecht
 ===============================
