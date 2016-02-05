@@ -161,6 +161,64 @@ Einsicht steht jedermann frei wenn:
 
 (Offenlegung mit **A** gekennzeichnet, Patente werden mit **B** gekennzeichnet) 
 
+#####Prüfungsverfahren
+Wenn die Anmeldung den formellen Anforderungen nicht genügt, fordert die Prüfungsstelle den Anmelder auf, die Mängel innerhalb einer bestimmten Frist zu beseitigen. Wenn keine patentfähige Erfindung vorliegt, hat der Anmelder eine Frist um sich unter Angaben von Gründen zu äußern.  
+  * verlängerbare Frist regelmäßig 4 Monate
+  * Bescheidserwiderung mit Änderung der Patentansprüche, techn. Argumentation, etc.
+  * Durchschn. Prüfungsdauer ca. 2-2,5 Jahre
+
+**Fristveräumnis - Weiterbehandlung**
+
+Wenn nach Versäumung einer vom Patentamt bestimmten Frist die Patentanmeldung zurückgewisen ist, so wird der Beschluss wirkungslos. Anmelder kann **Weiterbehandlung** der Anmeldung beantragen und die versäumte Handlung nachholen. Dieser Antrag ist innerhalb einer Frist von **einem Monat** nach Zustellung der Entscheidung einzureichen.  
+Gebühr 100€
+
+**Teilung der Anmeldung**
+
+Anmelder kann die Anmeldung jederzeit teilen. Der Zeitpunkt der ursprünglichen Anmeldung die Priorität **bleiben erhalten**  
+Gleiche Gebühren für die abgetrennte Anmeldung, wie für die ursprüngliche Anmeldung.  
+Zweck: Gestaltungsfreiheit des Anmelders  
+Motiv: schnelle Erteilung, getrennte Lizensierung, Anpassung an Wettbewerb, Einwand der Uneinheitlichkeit  
+
+Anmeldung wird zurückgewiesen, wenn die Mängel nicht beseitigt werden oder wenn keine patentfähige Erfindung vorliegt.  
+Genügt die Anmeldung den Anforderung und ist der Gegenstand patentfähigt, beschließt die Prüfungsstelle die Erteilung des Patents.  
+Mit der Veröffentlichung im Patentblatt treten die gesetzlichen Wirkungen des Patents ein.  
+
+####Das Einspruchsverfahren
+Innerhalb von 9 Monaten nach Veröffentlichung der Erteilung kann jeder gegen das Patent Einspruch erheben.  
+Einspruch ist **schriftlich** zu erklären und zu **begründen**  
+Stützt sich auf **Widerrufsgründe**
+Angabe müssen, wenn sie nicht schon in der Einspruchsfrist enthalten sind, bis zum Ablauf der Einspruchsfrist schriftlich nachgereicht werden.  
+Einspruchsgebühr (200€), deutsche Sprache, per Fax oder via Internet, mit umfassenden Angaben zu den Tatsachen, auf die sich der Einspruch stützt
+
+Einspruchsgründe:
+
+  1. Fehlende Patentfähigkeit
+  2. Keine ausreichende Offenbarung
+  3. Widerrechtliche Entnahme (ohne dessen Einwilligung etnommen)
+  4. Unzulässige Erweiterung
+
+#####Zu 3: widerrechtliche Entnahme:**
+Wesentliche Übereinstimmung zwischen patentierter Erfindung und Erfindungsbesitz des Einsprechenden  
+Tatbestandmerkmale:
+  1. **Erfindungsbesitz** des Einsprechenden
+  2. **Wesentliche Übereinstimmung** zwischen Patentierter Erfindung und Erfindungsbesitz des Einsprechenden
+  3. **Widerrechtlichkeit** der Entnahme
+  4. **Schutzfähgkeit** der patentierten Erfindung
+
+Heißt es wurde eine Person im Patentregister eingetragen, die nicht berechtig ist, während der tatsächliche Erfinder tatsächlich nicht im Register vermerkt ist.  
+Hat der Einspruch Erfolg, kann der Einsprechende **innerhalb eines Monats** die Erfindung **selst abnmelden** und die Priorität des früheren Patents in Anspruch nehmen.  
+
+#####Zu 4. Unzulässige Erweiterung
+Gegenstand des erteilten Patents ist mit dem Offenbarungsgehalt der ursprünglich bei der Anmeldung eingereichten Unterlagen zu vergleichen. Wenn der Gegenstand des Patents größer ist, liegt unzulässige Erweiterung vor.
+
+#####Verfahrensablauf
+Findet vor der zuständigen Patentabteilung des DPMA statt. Kontradiktorisches und öffentliches Verfahren, schriftliches Verfahren, ggf. Anhörung, Erwiderungsfristen von 3 Monaten, mündliche Verhandlung auf Antrag der Parteien, Rücknahme des Einspruchs jederzeit möglich
+
+**Einspruchsende:** Patentabteilung entscheidet durch **Beschluss, ob und in welchem Umfang das Patent aufrechterhalten oder widerrufen wird.** Patent kann beschränkt aufrechterhalten werden, ist die Änderung der Patentschrift zu veröffentlicht.  
+Patentabteilung kann **nach beliebigen Ermessen** bestimmen, inwieweit einem Beteiligten die Kosten zur Last fallen. Meistens trägt jeder Beteiligte sie selbst.  
+**Verfahrenskostenhilfe** kann beantrag werden. Wenn genehmigt, kann die Gebühr zu einem späteren Zeitpunkt zahlen, z.B. durch Ratenzahlung auf sein Einkommen.  
+
+Mit einem **Beschränkungsverfahren** kann der Patentinhaber das Schutzrecht freiwillig beschränken um einer Nichtigkeitsklage zuvor zu kommen. (120€) Begründeter Antrag mit Gründen für eine Beschränkung.
 2 Gebrauchmusterrecht
 ===============================
 
