@@ -137,6 +137,29 @@ DPMA kontrolliert die Anmeldung auf Mängel (formell und/oder materiell), weißt
 #### Die Offenbarung der Erfindung
 Fachmann muss in der Lage sein, die zum Patent anzumeldende technische Lehre auszuführen. Unterlagen für die Beurteilung des Offenbarungsgehaltes sind alle eingereichten UNterlagen, d.h Ansprüche, Beschreibungen und Zeichnungen. Alle Aspekte in diesen Unterlagen und die sich für den Fachmann objektiv ergeben sind offenbart.
 
+Patenterteilungs- und Einspruchverfahren (3. Vorlesung)
+-------------------------------------------------------
+**Prioritätsrecht** innerhalb vom zwölf Monaten nach dem Anmeldetag steht dem Anmelder einer Patent- oder Gebrauchsmusteranmeldung für die Anmeldung der selben Erfindung zum Patent ein Prioritätsrecht zu. Kann nur für Merkmale in Anspruch genommen werden, die in der früheren Anmeldung deutlich offenbart sind.  
+
+#####Rechercheantrag
+Schriflicher, gebührenpflichtiger unabhänger Antrag seitens des Anmelders.  
+Patentamt recherchiert die öffentlichen Druckschriften die für die Beurteilung der Patentfähgitkeit in Betracht zu ziehen sind.  
+300€, ca. 6 Monate, Basis für weitere unternehmerische Entscheidungen.  
+Vor dem Prüfungsantrag  
+
+#####Prüfungsantrag
+Patentamt prüft die Anmeldung auf formale Anforderungen und ob der Gegenstand patentfähig ist  
+Kann vom Patentsucher und jedem Dritten bis zum Ablauf von 7 Jahren nach Einreichung der Anmeldung gestellt werden  
+Unabhängiger Antrag, 350€ Gebühr, auf 150€ reduziert wenn Rechercheantrag gestellt ist.  
+Im Anschluss erteilt der Prüfer dem Anmelder einen schriftlichen Prüfbescheid mit ermittelten St.d.T. nach Relevanz aufgeführt.  
+Bei negativem Prüfbescheid muss der Anmelder Unterschiede und Vorteile der Erfindung darlegen und Ansprüche entsprechend einschränken. Erfolgt dies nicht, kann die Prüfungstelle die Anmeldung zurückweisen.  
+Wenn formelle und materielle Anforderungen erfüllt sind, erlässt die Prüfungsstelle den Erteilungsbeschluss. Dadurch wird das Patent geschaffen, der Schutzumfang festgelegt und das Erteilungs- bzw. Prüfverfahren abgeschlossen.
+#####Offenlegung
+Einsicht steht jedermann frei wenn:
+  * Anmelder mit Akteneinsicht einverstanden erklärt
+  * 18 Monate nach Anmeldetag  
+
+(Offenlegung mit **A** gekennzeichnet, Patente werden mit **B** gekennzeichnet) 
 
 2 Gebrauchmusterrecht
 ===============================
