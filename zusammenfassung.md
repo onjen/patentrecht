@@ -266,6 +266,60 @@ Grundsätzlich trägt **jeder seine Kosten selbst**. Patentgericht kann aber auc
 ![Beschwerde](beschwerde.png)
 
 ####Rechtsbeschwerdeverfahren (am BGH)
+* Bundesgerichtshof wird eingeschaltet, bei Rechtsbeschwerde gegenüber Beschlüssen der Beschwerdesenate des Patentgerichts.   
+* Innerhalb eines Monats nach Beschluss des BPatG beim BGH schriftlich einzulegen.  
+* Anschließend binnen eines Monats Begründung der Beschwerde.  
+* Steht nur Beteiligten zu  
+* Vertretung kann durch Rechtsanwalt oder Patentanwalt  
+* Hat aufschiebende Wirkung
+* Kosten von einem Beteiligten ganz oder teilweise (sofern es der Billigkeit entspricht)
+* 3. Instanz nach DPMA und BPatG  
+
+Beschwerdesenat muss die Rechtsbeschwerde im Beschluss zulassen, sie ist zuzulassen, wenn:
+
+  1. eine **Rechtsfrage von grundsätzlicher Bedeutung** zu entscheiden ist *oder*  
+  2. die **Fortbildung des Rechts** oder die Sicherung einer **einheitlichen Rechtsprechung** eine Entscheidung des BGH fordert (z.B. zwei Senate des BPatG haben unterschiedlich entschieden)
+
+Rechtsbeschwerde ist zulassungsfrei wenn:
+
+  1. Gericht nicht vorschriftmäßig besetzt
+  2. Richter hat mitgewirkt, der vom Richteramt ausgeschlossen oder wegen Befangenheit abgelehnt war
+  3. einem Beteiligten rechtliches Gehört versagt war
+  4. ein Beteiligter nicht nach Vorschrift vertreten war
+  5. Beschluss auf Grund einer mündlichen Verhandlung, bei der die Vorschriften über die Öffentlichkeit des Verfahrens verletzt worden sind
+  6. Beschluss nicht mit Gründen versehen war
+
+Findet statt am X. Zivilsenat: Rechtsstreitigkeiten über Patent- und Gebrauchsmuster, Arbeitnehmererfindungen, Patentnichtigkeitssachen, Zwangslizenssachen...
+
+####Nichtigkeitsverfahren
+* Erste Instanz das BPatG, zweite Instanz der BGH.
+* Wird eingeleitet durch **Klage** gegen den im Register eingetragengen **Patentinhaber**.
+* Kann erst **nach Abschluss aller Einspruchsverfahren** erhoben werden, also nach dreimonatgier Frist zur Einlegung des Einspruchs
+* schriftlich beim Patentgericht zu erheben
+* Gegenstand des Nichtgkeitsverfahrens ist **den Nachweis zu erbringen, dass ein erteiltes Patent zu Unrecht besteht**
+* Einmontige Erwiderungsfrist für Patentinhaber, wenn kein Widerspruch dann ist direkte Entscheidung des BPatG möglich
+* ca. 2 Jahre für die erste Instanz
+* Über die Klage wird durch **Urteil** entschieden
+* Mit dem Urteil wird auch über die Kosten des Verfahrens entschieden (meist die unterlegene Partei)
+
+#####Nichtigkeitsgründe
+  1. der Gegenstand **nicht patentfähig** ist, und **mangelnde Offenbarung**
+  2. **widerrechtliche Entnahme** s.o.
+  3. **Gegenstand des Patents geht über den Inhalt der Anmeldung hinaus**
+
+####Berufungsverfahren
+* Gegen die **Urteile der Nichtigkeitssenate** des BPatG findet die Berufung **am Bundesgerichtshof** statt
+* Einreichung der **Berufungsschrift** am BGH
+* **Berufungsfrist von einem Monat**
+* **Begründung der Berufung** ist erforderlich **innerhalb von drei Monaten** nach Einlegung der Berufung
+* Berufungsschrift muss enthalten:
+  1. Bezeichnung des Urteils, gegen das die Berufung gerichtet wird
+  2. die Erklärung, dass gegen dieses Urteil Berufung eingelegt wird
+* Berufung kann gestützt werden darauf, dass **die Entscheidung des Patentgerichts auf der Verletzung des Bundesrechts beruht**
+* Wie beim Rechtsbeschwerdeverfahren müssen die Beteiligten vor dem BGH durch einen **zugelassenenen Rechtsanwalt oder Patentanwalt vertreten lassen**
+* Beim Urteil wird auch über die Kosten entschieden
+
+
 
 2 Gebrauchmusterrecht
 ===============================
