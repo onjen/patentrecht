@@ -218,7 +218,55 @@ Findet vor der zuständigen Patentabteilung des DPMA statt. Kontradiktorisches u
 Patentabteilung kann **nach beliebigen Ermessen** bestimmen, inwieweit einem Beteiligten die Kosten zur Last fallen. Meistens trägt jeder Beteiligte sie selbst.  
 **Verfahrenskostenhilfe** kann beantrag werden. Wenn genehmigt, kann die Gebühr zu einem späteren Zeitpunkt zahlen, z.B. durch Ratenzahlung auf sein Einkommen.  
 
-Mit einem **Beschränkungsverfahren** kann der Patentinhaber das Schutzrecht freiwillig beschränken um einer Nichtigkeitsklage zuvor zu kommen. (120€) Begründeter Antrag mit Gründen für eine Beschränkung.
+Rechtsmittelverfahren (4. Vorlesung)
+------------------------------------
+
+####Beschränkungsverfahren
+Patentinhaber kann das Schutzrecht freiwillig beschränken um einer Nichtigkeitsklage zuvor zu kommen. (120€) Begründeter Antrag mit Gründen für eine Beschränkung ist einzureichen. Patent kann widerrufen werden oder wenn es beschränkt wird, wird die geänderte Patentschrift veröffentlicht.  
+
+####Beschwerdeverfahren
+Gegen **Beschlüsse** der Prüfungsstellen und **Patentabteilungen** findet die Beschwerde statt.  
+Beschwerde ist innerhalb **eines Monats** nach Zustellung schriftl. **beim Patentamt** einzulegen.  
+Zwei zeitliche Abschnitte:  
+ * zuerst wird sie der Stelle vorgelegt, die die angefochtene Entscheidung erlassen hat. Wenn zulässig und begründet, muss sie die Entscheidung selbst aufheben. Verfahren wird also beim DPMA zum Abschluss gebracht (**Abhilfeverfahren** genannt, nur einseitig)
+ * Erachtet die Stelle die Beschwerde nicht für begründet, so hat sie innerhalb von **einem Monat** die Beschwerde dem BPatG vorzulegen  
+
+**Formelle Erfordernisse der Beschwerde:**
+
+  1. Statthaftigkeit der Beschwerde
+  2. Beschwer (die Beschwerde einlegende Person ist durch die angefochtene Entscheidung in ihren Rechten belastet)
+  3. Beschwerdeerklärung innerhalb der Beschwerdefrist
+  4. Zahlung der Beschwerdegebühr (200€, bei Beschwerde gegen die Entscheidung einer Patentabteilung 500€)
+
+**Es gibt Beschwerden aufgrund folgender Beschlüsse:**
+
+  1. Gegen einen Beschluss der Prüfungsstelle   
+  Beschwer des Anmelders aufgrund Verweigerung der Patenterteilung
+
+  2. Gegen einen Beschluss der Patentabteilung  
+    a) Beschwer des Anmelders aufgrund:  
+       - vollständigem Widerruf des Patentes *oder*  
+       - Widerruf des Patentes gemäß Haupt- und Erteilung des Patentes gemäß Hilfsantrag
+    b) Beschwer des Einsprechenden aufgrund der Aufrechterhaltung des angegriffenen Patentes
+
+Bei Verfahren vorm BPatG ist ein schriftliches Verfahren vorgelegt, aber auch mündliche Verhandlung möglich wenn:  
+  1. einer der Beteiligten sie beantragt
+  2. vor dem BPatG Beweis erhoben wird
+  3. das BPatG sie für sachdienlich erachtet  
+
+Dauer beträgt ca. 2 Jahre
+
+BPatG kann Beschwerde:
+  1. als **unzulässig verwerfen**
+  2. als **unbegründet zurückweisen** (DPMA ist dann an diese Entscheidung gebunden)
+  3. den **angefochtenen Beschluss (teilweise) aufheben**
+
+Grundsätzlich trägt **jeder seine Kosten selbst**. Patentgericht kann aber auch entscheiden, dass die Kosten einem Beteiligten ganz oder teilweise zur Last fallen
+
+![Beschwerde](beschwerde.png)
+
+####Rechtsbeschwerdeverfahren (am BGH)
+
 2 Gebrauchmusterrecht
 ===============================
 
