@@ -319,6 +319,35 @@ Findet statt am X. Zivilsenat: Rechtsstreitigkeiten über Patent- und Gebrauchsm
 * Wie beim Rechtsbeschwerdeverfahren müssen die Beteiligten vor dem BGH durch einen **zugelassenenen Rechtsanwalt oder Patentanwalt vertreten lassen**
 * Beim Urteil wird auch über die Kosten entschieden
 
+Allgemeine Verfahrensregeln (Vorlesung 5)
+-----------------------------------------
+Vor dem Patentamt, Patentgericht und dem Bundesgerichtshof
+
+#####Untersuchungsgrundsatz
+**Patentgericht** und **Patentamt** erforschen den Sachverhalt von Amts wegen. Also sie können auch selbst Recherchen durchführen oder ergänzende Beweise anfordern. Vertreten die Interessen der (nicht beteiligten) Öffentlichkeit. Mitwirkungspflicht der Beteiligten.
+
+#####Wahrheitspflicht
+Im Verfahren vor dem Patentamt, dem Patentgericht und dem Bundesgerichtshof haben die Beteiligten ihre Eklärungen über tatsächliche Umstände **vollständig und der Wahrheit gemäß** abzugeben. Betriff z.B. bewusste Lüge, Halbwahrheiten, Verschweigen, Folgen sind strafbarer Prozessbetrug, Zurückweisung der Anmeldung...
+
+####Fristversäumnis
+#####Weiterbehandlung
+* Wenn nach **Versäumung einer vom Patentamt bestimmten Frist** die **Patentanmeldung zurückgewiesen worden ist**
+* Anmelder kann **Weiterbehandlung der Anmeldung** beantragen und die **veräumte Handlung nachholen** (und 100€)
+* Antrag innerhalb **einer Frist von einem Monat** (nach Zustelltung der Zurückweisung der Patentanmeldung) einzureichen
+* Versäumte Handlung ist innerhalb dieser Frist nachzuholen
+
+#####Widereinsetzung
+* Wer **ohne Verschulden** verhindert war, eine Frist einzuhalten (DPMA oder BPatG) , deren **Versäumung nach gesetzl. Vorschrift einen Rechtsnachteil zur Folge hat**, ist auf **Antrag** wieder in den vorigen Stand einzusetzen
+
+**Widereinsetzung nur unter folgenden Bedingungen**
+
+  1. Versäumung einer durch Gesetz angeordneten Frist
+  2. Kein Verschulden bei der Fristversäumung
+  3. Antragstellung innerhalb von **zwei Monaten** nach **Wegfall des Hindernisses**
+  4. Nachholung der versäumten Handlung **innerhalb der zwei Monate**
+
+Ein Jahr nach Ablauf kann die Wiedereinsetzung nicht mehr beantragt und die versäumte Handlung nicht mehr nachgeholt werden.  
+Tatsachen: Krankheit, Übermittlungsfehler, Überweisungsprobleme, Streiks, Katastrophen
 
 
 2 Gebrauchmusterrecht
