@@ -323,10 +323,10 @@ Allgemeine Verfahrensregeln (Vorlesung 5)
 -----------------------------------------
 Vor dem Patentamt, Patentgericht und dem Bundesgerichtshof
 
-#####Untersuchungsgrundsatz
+####Untersuchungsgrundsatz
 **Patentgericht** und **Patentamt** erforschen den Sachverhalt von Amts wegen. Also sie können auch selbst Recherchen durchführen oder ergänzende Beweise anfordern. Vertreten die Interessen der (nicht beteiligten) Öffentlichkeit. Mitwirkungspflicht der Beteiligten.
 
-#####Wahrheitspflicht
+####Wahrheitspflicht
 Im Verfahren vor dem Patentamt, dem Patentgericht und dem Bundesgerichtshof haben die Beteiligten ihre Eklärungen über tatsächliche Umstände **vollständig und der Wahrheit gemäß** abzugeben. Betriff z.B. bewusste Lüge, Halbwahrheiten, Verschweigen, Folgen sind strafbarer Prozessbetrug, Zurückweisung der Anmeldung...
 
 ####Fristversäumnis
@@ -349,6 +349,79 @@ Im Verfahren vor dem Patentamt, dem Patentgericht und dem Bundesgerichtshof habe
 Ein Jahr nach Ablauf kann die Wiedereinsetzung nicht mehr beantragt und die versäumte Handlung nicht mehr nachgeholt werden.  
 Tatsachen: Krankheit, Übermittlungsfehler, Überweisungsprobleme, Streiks, Katastrophen
 
+Die Wiedereinsetzung führt zur vollständigen Beseitigung der Folgen der Säumnis.
+
+####Vertretung
+* In der Regel kann jeder Beteiligte seine Sache selbst vertreten
+* Wer im **Inlad weder Wohnsitz, Sitz, noch Niederlassung** hat, kann an einem **Verfahren** vor dem **Patentamt** oder dem **Patentgericht** nur teilnehmen, wenn er im Inland einen **Rechtsanwalt oder Patentanwalt als Vertreter bestellt hat**, der zur Vertretung bevollmächtig ist.
+
+Das erteilte Patent (immer noch Vorlesung 5)
+--------------------------------------------
+####Der Patentschutz
+* max. 20 Jahre ab Anmeldetag
+* Steigende Jahresgebühren (für das dritte und jedes folgende Jahr)
+* Schutzbereich wird durch den **Inhalt der Patentansprüche** bestimmt. (Beschr. und Zeichn. sind hinzuzuziehen)
+* Schutzdauer kann enden wenn:
+  1. 20 jährige Schutzfrist vorüber
+  2. Abgabe einer Verzichtserklärung des Inhabers an das DPMA
+  3. nicht rechtzeitige Abgabe der Erfinderbenennung
+  4. Nichtzahlung einer fälligen Jahresgebühr
+  5. Widerruf des Patents
+  6. Nichtigerklärung des Patents
+
+##### Wirkung des Patenschutzes
+Patentinhaber allein darf die Erfindung  im Rahmen des geltenden Rechts **benutzen**
+
+Jedem **Dritten** ist es verboten, ohne seine Zustimmung:  
+  1. ein **Erzeugnis** **herzustellen, anbieten, in Verkehr zu bringen oder zu gebrauchen**
+  2. ein **Verfahren** **anzuwenden**, oder anzubieten
+  3. Das durch ein **Verfahren** **unmittelbar hergestellte Erzeugnis anzubieten**
+
+#####Übertragung des Patents
+* Recht auf das Patent, der Anspruch auf Erteilung des Patents und das Recht aus dem Patent können beschränkt oder unbeschränkt auf andere übertragen werden
+* Gegenstand von Lizenzen
+* Lizenzen die vorher erteilt worden sind werden nicht durch Rechtsübergang oder die Erteilung einer Lizenz berührt
+
+####Grenzen des Patentschutzes
+Wirkung erstreckt sich **nicht** auf:
+  1. Handlungen im **privaten Bereich**
+  2. Handlungen zu **Versuchzwecken**
+  3. unmittelbare **Arzneimittelzubereitung in Apotheken**  
+(  
+  4. An Bord von **Schiffen** (ausschließlich für die **Bedürfnisse des Schiffes**)
+  5. Gebrauch in der **Bauausführung oder für den Betrieb der Luft- oder Landfahrzeuge**  
+)
+
+#####Territorialitätsprinzip
+Wirkungen aus einem deutschen Patent finden **nur in Deutschland Anwendung**, weil sie aus dem deutschen Patentgesetz resultieren
+
+#####Weiterbenutzungsrecht
+Jemand hat zur **Zeit der Anmeldung bereits im Inland** die Erfindung in **Benutzung** genommen oder die dazu **erforderlichen Veranstaltungen getroffen**  
+Dieser ist dann **befugt** die Erfindung **für die Bedürfniss seines eigenen Betriebs auszunutzen**
+
+#####Öffentliches Interesse
+Wirkung des Patents tritt nicht ein, wenn die **Bundesregierung** anordnet, dass die Erfindung im Interesse der **öffentlichen Wohlfahrt** benutzt werden soll.  
+Patentinhaber hat gegen den Bund **Anspruch auf angemessene Vergütung**
+
+#####Zwangslizenz
+Eine **nicht ausschließliche Befugnis** zur gewerblichen Benutzung einer Erfindung wird durch das BPatG erteil sofern:  
+   1. Lizensucher sich **erfolglos bemüht** hat, vom Patentinhaber Zustimmung zu erhalten
+   2. das **öffentliche Interesse** die Erteilung einer Zwangslizenz gebietet
+
+#####Erlöschen des Patents
+Wenn:  
+  1. Patentinhaber darauf durch schriftl. Erklärung an das Patentamt **verzichtet**
+  2. **Erfinder-Erklärungen** werden nicht rechtzeitig abgegeben
+  3. **Jahresgebühr** wird nicht rechtzeitig gezahlt
+
+#####Widerruf/Nichtigkeit des Patents
+Patent wird auf Antrag (teilweise) widerrufen, wenn  
+  1. der Gegenstand nicht patentfähig ist
+  2. das Patent die Erfindung nicht vollständig offenbart
+  3. wesentlicher Inhalt des Patents widerrechtlich entnommen wurde
+  4. Gegenstand des Patents geht über den Inhalt der Anmeldung der ursprünglich eingereichten Fassung hinaus
+
+  Mit dem Widerruf gelten die Wirkungen des Patents und der Anmeldung als von Anfang an nicht eingetreten.
 
 2 Gebrauchmusterrecht
 ===============================
