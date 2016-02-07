@@ -484,8 +484,154 @@ Gericht untersagt dem mutmaßlichen Verletzer, die angegriffene Veletzungsform h
 Verlangt Antrag, Eilbedürftigkeit und klare Verhältnisse (häufig für Messen relevant)
 
 
-2 Gebrauchmusterrecht
-===============================
+2 Gebrauchmusterrecht (Vorlesung 7)
+===================================
+
+* **Erfindungen**, die **neu** sind, auf einem **erfinderischen Schritt** beruhen und **gewerblich anwendbar sind**
+* Registerrecht, d.h kein amtliches Prüfverfahren auf Schutzfähgkeit, also schnelle Eintragung und Geltendmachung möglich
+* **Verfahren sind ausgeschlossen**
+* **Begrenzung der Schutzdauer** auf höchstens 10 Jahre (erst drei Jahre, dann Gebühr für weitere drei Jahre, dann jeweils 2 Jahre)
+* ausgenommene Gegenstände
+  * wiss. Theorien und math. Methode
+  * ästethische Formschöpfungen
+  * Programme für Datenverarbeitungsanlagen
+  * Wiedergabe von Informationen
+  * biotechnologische Erfidungen
+* als Gebrauchsmuster werden nicht geschützt
+  1. Erfindungen deren Verwertung gegen die öffentliche Ordnung oder die guten Sitten verstoßen würde
+  2. Pflanzensorten oder Tierarten
+  3. Verfahren
+
+**Schutz erlischt**, durch
+
+  1. Ablauf der Schutzdauer von drei bzw. sechs bzw. acht bzw zehn Jahre nach Anmeldetag
+  2. Verzicht
+  3. Löschung
+
+####Neuheit
+Gegenstand eines Gebrauchsmusters gilt also neu, wenn er nicht zum St.d.T. gehört.  
+Gegenüber dem Patent gilt ein eingeschränkter St.d.T.
+Mündliche Mitteilungen in der Öffentlichkeit (z.B. Vorträge oder Rundfunksendungen) nur dann, wenn eine offenkundige Benutzung erfolgt ist.
+
+#####Neuheitsschonfrist
+Wenn **6 Monate vor** dem Anmeldungstag eine **Beschreibung oder Benutzung** erfolgte, bleibt diese **außer Betracht**, wenn sie auf der Ausarbeitung des **Anmelders** beruht
+
+####Gebrauchsmusteranmeldung
+Anmeldung muss enthalten:
+
+  1. Namen des Anmelders
+  2. einen Eintragungsantrag (Formblatt)
+  3. einen oder mehrere Schutzansprüche (was soll als schutzfähig unter Schutz gestellt werden)
+  4. eine Beschreibung des Gegenstandes
+  5. die Zeichnungen, auf die sich die Schutzansprüche oder die Beschreibung beziehen
+
+####Eintragungsverfahren
+Es findet vor der Eintragung nur eine Prüfung auf Ordnungsmäßigkeit statt, keine Prüfung auf Neuheit, erfinderischen Schritt oder gewerbliche Anwendung. Änderungen in der Anmeldung sind zulässig bist zur Verfügung über die Eintragung (solange sie den Gegenstand der Anmeldung nicht erweitern). Einsicht in das Register steht jedermann frei.  
+
+Weitere Erfordernisse:
+
+* Nur in deutscher Sprache
+* Zeichnungen können nachgereicht werden (Anmeldetag wird dementsprechend verschoben)
+* Anmeldegebühr (aktuell 40€)
+#####Abzweigung
+Anmeldetag der früher eingereichten Patentanmeldung für eine neue Gebrauchmusteranmeldung in Anspruch nehmen (also die Priorität einer Patentanmeldung beanspruchen)  
+Kann bis zum Ablauf von zwei Monaten nach dem Ende des Monats des Endes der Patentanmeldung bzw Einspruchsverfahren ausgeübt werden.  
+Es können mehrere Gebrauchsmuster (für verschiedene Gegenstände) aus einer Patentanmeldung abgezweigt werden.  
+z.B. bei 
+* drohendem Zurückweisungsbeschluss in der Patentanmeldung
+* erwünschter schneller Verfügbarkeit eines Schutzrechts
+* "Optimierung" der Schutzansrpüche auf eigenes oder fremdes Produkt
+
+#####Antrag auf Recherche
+* Patentamt ermittelt auf Antrag die öffentlichen Druckschriften, die in Betracht zu ziehen sind
+* Antrag kann vom Anmelder, dem als Inhaber Eingetragenen und jedem Dritten gestellt werden
+* ermittelter St.d.T. wird mit veröffentlicht
+* Amt ermittelt und übersendet materiell relevante Druckschriften des St.d.T. (300€)
+
+####Prioritätsrecht
+* Anmelder steht innerhalb einer **Frist von zwölf Monaten** nach dem Anmeldetag einer eingereichten **früheren Patent- oder Gebrauchsmusteranmeldung**, für die Anmeldung **derselben Erfindung** ein Prioritätsrecht zu
+* **Austellungspriorität** wenn Anmelder auf einer inländischen oder ausländischen Ausstellung zur Schau gestellt hat, kann er von diesem Tag **Prioritätsrecht** in Anspruch nehmen, innerhlab einer **Frist von sechs Monaten**
+
+####Wirkung des Gebrauchsmusters
+* Schutzbereich wird durch den Inhalt der **Schutzansprüche** bestimmt
+* Beschreibung und Zeichnungen sind **zur Auslegung** der Schutzansprüche heranzuziehen
+#####Nichteintritt der Wirkungen
+* Wenn gegen den als Inhaber Eingetragenen ein **Anspruch auf Löschung besteht**
+* widerrechtliche Entnahme (Beschreibungen, Zeichnungen, Modelle... ohne dessen Einwilligung entnommen)
+* Wenn ein Patent später angemeldet wurde, darf das Recht ohne die Erlaubnis des Inhabers des Gebrauchsmusters nicht ausgeübt werden
+
+![Verbietung](verbietungsrechte.png)
+
+#####Unmittelbare Wirkung der Eintragung
+* allein der **Inhaber** ist befugt, den Gegenstand des Gebrauchsmusters **zu benutzen**
+* jedem **Dritten** ist es **verboten**, ein Erzeugnis ohne seine Zustimmung, **herzustellen, anzubieten, in Verkehr zu bringen oder zu gebrauchen** (eigentlich wie bei Patentrecht)
+
+#####Mittelbare Wirkung der Eintragung
+wtf? lücke... (folie 175)
+
+#####Grenzen des Gebrauchsmusterschutzes
+Wirkung des Gebrauchsmusters erstreck sich nicht auf:
+
+  1. Handlungen, die im **privaten Bereich** zu nichtgewerblichen Zwecken vorgenommen werden
+  2. Handlungen zu **Versuchszwecken**
+  3. Wie bei Patentrecht (Arzneimittel, Schiffe und Flugzeuge)
+
+####Löschungsverfahren
+**Jedermann** hat gegen den als Inhaber Eingetragenen **Anspruch auf Löschung** des GM, wenn
+
+  1. Gegenstand des GM **nicht schutzfähig** ist
+  2. Gegenstand des GM **bereits in früherer Patent oder GM Anmeldung geschützt** worden ist
+  3. **Gegenstand des GM über** den **Inhalt der Anmeldung hinausgeht**, in der sie ursprünglich eingereicht worden ist
+
+Bei **widerrechtlicher Entnahme** steht nur dem Entnommenen ein Anspruch auf Löschung zu  
+
+Löschung kann nur in Teil des Gebrauchsmuster passieren.
+
+#####Voraussetzungen
+  1. Antrag
+  2. Angabe der den Löschungsantrag begründenden Tatsachen und Beweismittel
+  3. Zahlung der Löschungsgebühr (300€)
+
+#####Ablauf
+  1. DPMA teilt dem Inhaber der Antrag mit, er soll sich **innerhalb eines Monats erklären**
+  2. **Widerspricht er nicht rechtzeitig** erfolgt die Löschung, andernfalls ein kontradiktorisches Verfahren
+  3. Über den Antrag wird auf Grund **mündlicher Verhandlung** beschlossen in **1. Instanz** in der **Gebrauchsmusterabteilung des DPMA**, **zweite Instanz bei BPatG Beschwerdesenat** auf Antrag
+  4. Patentamt bestimmt darüber zu welchem Anteil die Kosten auf die Beteiligten verteilt werden
+
+![gbm](gbm.png)
+
+#####Rechtsmittel
+Gegen Beschlüssen findet die **Beschwerde** an das **Patentgericht** statt
+
+Gebrauchsmustergesetz verweist bei einer Vielzahl von Verfahren auf das Patentgesetzt, z.B. für
+
+  * Zwangslizenzen
+  * Wiedereinsetzung in den vorigen Stand
+  * Wahrheitspflicht im Verfahren
+  * Bewilligung von Verfahrenskostenhilfe
+
+####Übertragungs- und Lizenzrecht
+* Recht auf Gebrauchsmuster kann auf **andere übertragen** werden
+* Rechte können **Gegenstand von Lizenzen sein**
+* Rechtsübergang **berührt nicht** Lizenzen, die Dritten vorher erteilt worden sind
+
+####Rechtsansprüche aus Gebrauchsmuster
+* Verletzer kann verlangen dass das **Erzeugnis vernichtet** wird
+* Verlangen einer unverzüglichen **Auskunft über Herkunft und Vertriebsweg**
+* **einstweilige Verfügung** bei offensichtlicher Rechtsverletzung
+* **strafrechtliches Verfahren** auf Antrag oder öff. Interesse
+* **Beschlagnahme durch Zollbehörde** auf Antrag und gegen Sicherheitsleistung bei seiner Ein- oder Ausfuhr, wenn die Rechtsverletzung offensichtlich ist
+* Bei **Gebrauchsmusterstreitsachen** sind die Zivilkammern der Landgericht ohne Rücksicht auf den Streitwert zuständig
+
+####Verteidigung gegen Gebrauchsmusterverletzung
+mit folgenden Argumenten kann der einer Gebrauchsmusterverletzung Beschuldigte sich wehren:
+
+  * Nichtbenutzung der geschützen Lehre
+  * fehlende Rechtsbeständigkeit des Klagegebrauchsmusters
+  * eigenes Benutzungsrecht
+  * Verjährung/Verwirkung
+
+
 
 3 Lizenzvertragsrecht
 ===============================
