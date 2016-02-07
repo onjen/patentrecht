@@ -635,6 +635,130 @@ mit folgenden Argumenten kann der einer Gebrauchsmusterverletzung Beschuldigte s
 
 3 Lizenzvertragsrecht
 ===============================
+Einfach: die Erlaubnis, den Schutzgegenstand z.B. eines Patentes oder Gebrauchsmusters zu benutzen.  
+
+#####Vorteile für Lizenznehmer
+  * **Nutzung von Schutzrechten Dritter**
+  * Technologietransfer
+  * keine eigenen Investitionen
+  * keine Kosten für Aufrechterhaltung/Verteidigung der Schutzrechte...
+
+#####Vorteile für den Lizenzgeber
+  * **Erwirtschaftung von Lizenzeinnahmen**
+  * Technologietransfer
+  * Erzeugung von Abhängigkeiten
+  * grenzüberschreitende Verbreitung von Technologien
+
+####Gegenstand von Lizenverträgen
+  * Patent
+  * Marke
+  * Gebrauchsmuster
+  * Geschmacksmuster
+  * Know-How
+
+####Regelung im Patentgesetz
+Laut Patentgesetz bedeutet eine Lizenz auf jeden Fall die Zustimmung des Patentinhabers zu den Benuztungshandlungen des Lizenznehmers
+
+####Arten von Lizenzverträgen
+#####Einfache Lizenz
+* Lizenznehmer hat Nutzungsrecht aber kein Verbotsrecht
+* Lizenzgeber räumt ihm das Recht ein, den Gegenstand zu benutzen (also ihn herzustellen, in Verkehr bringen, besitzen usw.)
+* Lizenzgeber kann weitere Lizenzen vergeben
+* Lizenzgeber kann Gegenstand weiterhin selbst nutzen
+
+#####Ausschließliche Lizenz
+* Lizenzgeber räumt nur einem das Recht ein den Gegenstand des Lizenzrechts zu nutzen
+* Lizenzgeber kann keine weiteren Lizenzen vergeben
+* Lizenzgeber kann ihn selbst nicht nutzen 
+* Lizenzgeber kann Ansprüche gegen dritte kann er geltend machen
+#####Alleinige Lizenz
+* Lizenzgeber räumt allein dem Lizenznehmer das Recht ein, den Gegenstand des Lizenzrechts zu nutzen
+* Kann den Gegenstand selbst weiterhin nutzen
+* Lizenzgeber kann Ansprüche gegen dritte kann er geltend machen
+#####Negative Lizenz
+* Lizenzgeber hat lediglich die Pflicht zum Verzicht auf seine Verbietungsrechte
+* Er ist nicht zum Erwerb und zur Aufrechterhaltung von Schutzrechten verpflichtet
+* Er kann geheimes Know-How haben
+* Er unterliegt keinen Haftungsansprüchen des Lizenznehmers
+* Normalerweise werden Lizenzen positiv verstanden, also dass er alles obenstehende hat
+#####Vertriebslizenz
+* Lizenzgeber räumt Lizenznehmer das Recht ein, den Gegestand des Lizenzrechtes in Verkehr zu bringen
+* Abgrenzung zu Vertriebsrecht: dabei bringt der Schutzrechtsinhaber den Gegenstand selbst in den Verkehr und der Lizenznehmer vertreibt diesen nur weiter
+#####Herstellungslizenz
+* Lizenznehmer darf Gegestand des Lizenzrechtes herstellen
+* i.d.R. verbunden mit Vertriebslizenz, damit er es herstellen und vertreiben kann
+#####Unterlizenz
+* Gegenstand des Lizenzrechtes benutzen und Dritten an diesem Lizenzrecht weitere Lizenzen einzuräumen
+* z.B. nachgeschaltete einfache Lizenz
+* sinnvoll wenn eine Lizenz einer Konzernmutter erteilt wird, die dann an Tochterunternehmen Unterlizenz erteilen kann
+#####Freilizenz
+* Lizenzen die ohne Vergütungsverpflichtung übertragen werden (meist aufgrund taktischer Erwägungen)
+
+####Patentlizenzvertrag
+* Gegenstände: erteilte Patente, Geheimpatente, ...  
+* Gebührbestimmung
+* Laufzeit des Vertrags, Kündigungsoption
+* Wahl des anwendbaren Rechts
+
+Fragen vor Vertragschluss aus Sicht von Lizenzgeber- und Nehmer (relevant? F.215/216)  
+Zuerst *Letter of Intent* (Absichtserklärung)  
+Schriftform nicht mehr geboten, aber zu Beweiszwecken empfohlen  
+Anwendungsbereich **persönlich** (Lizenznehmer, Tochtergesellschaften...), **zeitlich** (Laufzeit des Schutzrechts oder kürzer), **räumlich** (abhängig von dem Bestand von Schutzrechten)  
+
+####Pflichten des Lizenzgebers
+* Einräumung des Nutzungsrechts im vereinbarten Umfang
+* Aufrechterhaltung/Verteidigung/Durchsetzung des Lizenzrechts
+* Einweisung der Mitarbeiter des Lizenznehmers in lizensierte Technik
+* evtl. Gewährleistung in vereinbartem Umfang
+
+####Pflichten des Lizenznehmers
+* Zahlung der vereinbarten Lizenzgebühr
+* Rechnungslegungs- und Auskunftspflicht zur Verifizierung der gemachten Angaben bzgl. der Lizenzgebühr
+* Ausübungspflicht (best efforts-Klausel) Pflicht zur Verwertung der lizensierten Technik
+* Einhaltung von Mindestqualitätsstandards
+* Unterlassung von Angriffen auf die lizensierten Schutzrechte
+#####Lizenzgebühr
+* Umsatzlizenz, z.B. 2% des Nettoumsatzes
+* Stücklizenz, z.B. pro verkaufter Einheit
+* Einmal- bzw. Pauschalzahlung
+
+####Beendigung des Lizenzvertrages
+* Entweder nach Ablauf einer im Vertrag vereinbarten Zeit *oder*
+* Mit Ablauf der Schutzdauer des Schutzrechts
+* Vertrag sieht vielfach Möglichkeit zur Kündiung vor
+
+####Know How Lizenzvertrag
+Wenn die lizensierte Erfindung nicht angemeldet, sondern geheim gehalten werden soll, so liegt ein reiner Know-How Vertrag vor
+* Reine Dokumentation oder Erfahrungswissen in den Köpfen der Mitarbeiter
+* Welches Know How wird tatsächlich benötigt
+* Welche Arbeitnehmer haben dieses Know How
+
+####Patent Pool
+* Zusammenschluss von Patentinhabern zu einer Technologie (insbesondere bei Standard Patenten)
+* Inhaber stellen ihre Patente zu dieser Technologie anderen Pool-Teilnehmern (kostenpflichtig) zur Verfügung
+
+####Kartellrechtliche Probleme
+* Lizenzverträge enthalten oft noch Regelungen, die über den Inhalt des Schutzrechts hinausgehen
+* Deutsches oder europäisches Kartellrecht ist dann die Frage
+* Bei Vereinbarungen zwischen miteinander im Wettbewerb stehenden Unternehmen, die eine Verhinderung, Einschränkung oder Verfälschung des Wettbewerbs bezwecken oder bewirken
+
+#####Gruppenfreistellungsverordnung Technologie Transfer
+* Zur Beurteilung, ob Regelungen im Lizenzvertrag gegen EG-Kartellrecht verstoßen, kann die sog. Gruppenfreistellungsverordnung über Technologietransfer- Vereinbarungen herangezogen werden
+* Dadurch werden grundsätzlich sämtliche wettbewerbsbeschränkende Vereinbarungen von Unternehmen freigestellt
+* Vorraussetzungen für deren Anwendbarkeit:
+   1. Anwendbarkeit (Technologietransfer-Vereinbarungen)
+   2. Nichtvorliegen von Kernbeschränkungen
+   3. Einhalten von Marktschwellen
+
+Alle erklärt ab F. 237 (relevant??)
+
+####Zwangslizenz
+* einem Lizenzsucher auf Antrag durch Gerichtsurteil im öffentlichen Interessen erteile Befugnis zur Benutztung einer Erfindung, auch wenn der Schutzrechtsinhaber dies verweigert
+
+Vorraussetzungen nach dem Patentrecht:
+
+ 1. Lizenzsucher muss erfolglos bemüht haben, vom Patentinhaber die Zustimmung zu erhalten, die Erfindung zu angemessenen Bedingungen zu benutzen **und**
+ 2. das öffentliche Interesse muss die Erteilung einer Zwangslizenz gebieten
 
 4 Das Arbeitnehmererfinderrecht
 =========================================
