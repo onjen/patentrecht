@@ -421,7 +421,68 @@ Patent wird auf Antrag (teilweise) widerrufen, wenn
   3. wesentlicher Inhalt des Patents widerrechtlich entnommen wurde
   4. Gegenstand des Patents geht über den Inhalt der Anmeldung der ursprünglich eingereichten Fassung hinaus
 
-  Mit dem Widerruf gelten die Wirkungen des Patents und der Anmeldung als von Anfang an nicht eingetreten.
+Mit dem Widerruf gelten die Wirkungen des Patents und der Anmeldung als von Anfang an nicht eingetreten.
+
+Durchsetzung des Patentschutzes (Vorlesung 6)
+---------------------------------------------
+(Maßnahmen, die sich gegen Patentverletzungen richten)  
+
+Die Zivilkammern der **Landgerichte** sind zuständig für Klage in Patentstreitsachen, ohne Rücksicht auf den Streitwert. Das Gericht, in dem der Beklagte seinen Wohnsitz bzw. Sitz hat. Berufungen am Oberlandesgericht, Revision zum BGH. Meist Doppelvertretung durch Rechtsanwalt und Patentanwalt.
+
+* **Verteidigungsstrategien** im Verletzungsverfahren:  
+  a) Bestreiten der Verletzungshandlung   
+  b) Geltendmachung von eigenen Benutzungsrechten  
+* zweites Verfahren urteilt über die Höhe des Schadensersatzes  
+
+####Schadensersatz
+#####Voraussetzungen 
+  1. objektiv Vorliegende Patentverletzung
+  2. nachweisbarer Schaden durch Patentverletzung
+  3. Verschulden (Vorsatz/Fahrlässigkeit)
+
+#####Berechnungsarten des Schadens (eine von dreien)
+  1. Ersatz des entgangenen Gewinns (Verletzte muss viel offenelgen, daher nicht so weit verbreitet)
+  2. angemessene Lizenzgebühr (Fiktiver Lizenzsatz, den die Parteien vereinbart hätten; am weitesten verbreitet; fehlender "Bestrafungscharakter" für Verletzer)
+  3. Herausgabe des Verletzergewinns (Verletzer legt seinen Gewinn mit dem Verletzungsgegenstand offen; Problem "Verletzer rechnet sich arm")
+
+####Ansprüche aus Patentverletzung
+* Wer eine patentierte Erfindung benutzt, kann vom Verletzen auf **Unterlassung** in Anspruch genommen werden
+* Wer die Handlung **vorsätzlich oder fahrlässig** vornimmt, ist zum **Ersatz des daraus entstandenen Schadens** verpflichtet
+* Verletzte kann verlangen, dass das **patentverletzende Erzeugnis vernichtet** wird
+* Verletzer kann vom Verletzer **unverzügliche Auskunft über die Herkunft und den Vertriebsweg** des betreffenden Erzeugnisses verlangen
+
+####Strafrechtliche Ansprüche
+**Freiheitsstrafe bis zu 3 Jahre** oder **Geldstrafe** wenn:
+
+  1. ein Erzeugnis, das Gegenstand des Patents ist, benutzt *oder*
+  2. ein Verfahren, das Gegenstand des Patents ist, anwendet oder zur Anwendung bietet
+
+Handelt der Täter gewerbsmäßig, Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe  
+Der Versuch ist strafbar
+
+####Patentberühumung
+Wer Gegenstände durch Kennzeichnungen den Eindruck erweckt, dass sie **durch ein Patent oder eine Patentanmeldung geschützt seien**, ist **verpflichtet jedem**, **Auskunft darüber zu geben**, auf welches Patent oder Patentanmeldung sich die Verwendung der Bezeichnung stützt.
+
+In den USA ist sowas vorgeschrieben, in Deutschland nicht. Aber es kann empfohlen sein.
+
+####Zollbeschlagnahme
+bei Einfuhr oder Ausführ findet **Beschlagnahme durch die Zollbehöre statt**, sofern die Rechtsverletzung **offensichtlich** ist. Wenn es ein geschütztes Patent ist, auf **Antrag und gegen Sicherheitsleistung** des Rechtsinhabers.  
+Größter Teil sind Markenrechtsverletzungen (95,94%)
+
+####Durchsetzung der Rechtsansprüche
+* vorab **Berechtigungsanfrage** oder **Verwarnung** des vermeintlichen Verletzers
+* Hierbei Hinweise auf **relevante Schutzrechte** und **Verletzungshandlung** und **Aufforderung zur Stellungnahme**
+* Verwarnung umfasst **Unterlassungsaufforderung**
+
+#####Unterlassungsanspruch
+Wenn jemand eine durch ein Patent geschütze Erfindung oder ein durch ein Patent geschütztes Verfahren benutzt, kann vom Verletzten auf **Unterlassung in Anspruch genommen werden**.  
+Häufiger Einwand ist das Vorbenutzungsrecht, unrechtmäßige Entwendung.  
+Unterlassungsanspruch unterliegt Verjährung (3 Jahre ab Kenntnis von der Person des Verletzers und der Verletzung, ansonsten in 10 Jahren nach der Patentverletzungshandlung)
+
+####Einstweilige Verfügung (schnellverfahren)
+Gericht untersagt dem mutmaßlichen Verletzer, die angegriffene Veletzungsform herzustellen, anzubieten oder zu vertreiben. Falls dies nicht stimmte, kann das hohe Schadensersatzzahlungen nach sich ziehen.  
+Verlangt Antrag, Eilbedürftigkeit und klare Verhältnisse (häufig für Messen relevant)
+
 
 2 Gebrauchmusterrecht
 ===============================
