@@ -148,6 +148,7 @@ Patentamt recherchiert die öffentlichen Druckschriften die für die Beurteilung
 Vor dem Prüfungsantrag  
 
 #####Prüfungsantrag
+Muss gestellt werden (spätestens nach 7 Jahren, sonst gilt die Anmeldung als zurückgenommen!)  
 Patentamt prüft die Anmeldung auf formale Anforderungen und ob der Gegenstand patentfähig ist  
 Kann vom Patentsucher und jedem Dritten bis zum Ablauf von 7 Jahren nach Einreichung der Anmeldung gestellt werden  
 Unabhängiger Antrag, 350€ Gebühr, auf 150€ reduziert wenn Rechercheantrag gestellt ist.  
