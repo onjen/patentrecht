@@ -762,6 +762,114 @@ Vorraussetzungen nach dem Patentrecht:
 
 4 Das Arbeitnehmererfinderrecht
 =========================================
+* **Erfindungen** (Patent- oder Gebrauchsmusterfähig) und **techn. Verbesserungsvorschläge** (Vorschläge für sonstige techn. Neuerungen, die nicht Patent- oder Gebrauchsmusterfähig sind)
+* Also nicht bei kaufmännischen, wirtschaftlichen, organisatorischen oder werbemäßigen Verbesserungsvorschlägen
+* von **Arbeitnehmern** im privaten und im öffentlichen Dienst, von **Beamten** und **Soldaten**
+* Durch Auflösung des Arbeitverhältnisses werden die Rechte und Pflichten **nicht berührt**
+
+####Diensterfindung/freie Erfindungen (Zwei folgende große Kapitel)
+#####Diensterfindung
+**Während der Dauer des Arbeitsverhältnisses** gemacht Erfindungen, die entweder
+  1. aus der **Aufgabe des Arbeitnehmers** entstanden sind *oder*
+  2. **maßgeblich auf Erfahrungen oder Arbeiten des Betriebs** beruhen
+
+Es besteht Meldepflicht (s.u.)
+
+#####Freie Erfindungen
+**Sonstige Erfindungen von Arbeitnehmern** sind freie Erfindungen
+
+Es besteht Meldepflicht und zusätzlich **Anbietungspflicht**:
+
+Arbeitnehmer hat dem Arbeitgeber mindestens ein nichtausschließliches Recht zur Benutzung der Erfindung anzubieten. Muss aber in einen Arbeitsbereich des Betriebes fallen. Nach **drei Monaten** erlischt das Vorrecht
+
+####Behandlung von Diensterfindungen
+#####Meldepflicht
+* Arbeitnehmer ist **verpflichtet** eine Diensterfindung **unverzüglich dem Arbeitgeber in Textform zu melden**
+* die Meldung **muss enthalten**
+   1. techn. Aufgabe
+   2. Lösung der Aufgabe
+   3. Zustandekommen der Erfindung
+* wenn eine Meldung den Anforderungen nicht entspricht, gilt sie als **ordnungsgemäß**, wenn Arbeitgeber nicht innerhalb von **zwei Monaten** erklärt, welchen Ergänzungen es bedarf
+
+#####Inanspruchnahme
+* Arbeitgeber kann Diensterfindungn **durch Erklärung gegenüber dem Arbeitnehmer** in Anspruch nehmen
+* Alle Rechte gehen automatisch auf den Arbeitgeber über, falls der die Diensterfindung nicht innerhalb von **vier Monaten** freigibt
+* Alle **vermögenswerten Rechte** an der Diensterfindung gehen **auf den Arbeitgeber** über
+* Wenn er das nicht machen will, kann er das nur wenn **der Arbeitnehmer** zustimmt
+* Arbeitnehmer hat das Recht auf **angemessene Vergütung**
+
+![insanspruchnahme](inanspruchnahme.png)
+
+####Vergütung
+* Für die Bemessung wichtig:
+  1. wirtschaftliche Verwertbarkeit der Diensterfindung
+  2. Aufgaben und die Stellung des Arbeitnehmers im Betrieb
+  3. Anteil des Betriebs am Zustandekommen der Diensterfindung
+* **durch Vereinbarung** zwischen Arbeitgeber und Arbeitnehmer festgelegt
+* Vergütung = Erfindungswert * Anteilfaktor * Miterfinderanteil ( V = E * A * M ) 
+
+#####Zu Erfindungswert
+Drei anerkannt Methoden
+  1. Lizenzanalogie (Erfindungswert = relevanter Umsatz * Lizenzsatz ( E = U * L ))
+  2. erfassbarer betrieblicher Nutzen
+  3. Schätzung
+
+#####Zu Anteilfaktor
+Wird bestimmt durch (Punktekatalog)
+  1. Stellung der Aufgabe (eher selbständig oder vorher gestellt?)
+  2. Lösung der Aufgabe (große Eigenleistung oder viel Hilfsmittel?)
+  3. Aufgaben und die Stellung des Arbeitnehmers im Betrieb (Mehr Punkte wenn eher die Leistungserwartung eher gering war)
+
+#####zu Miterfinderanteil
+Bestimmte Vergütung entsprechend der Anteile der Erfinder an der Erfindung  
+Bei 4 ist er z.B. 0.25
+
+####Schutzrechtsanmeldung
+![arbeitnehmererfindung](arbeitnehmererfindung.png)
+* **Arbeitgeber ist verpflichtet**, im Inland **unverzüglich eine Schutzrechtsanmeldung vorzunehmen**, im Zweifel eine Patentanmeldung
+* Verpflichtung entfällt wenn
+  1. Diensterfindung **frei geworden** ist
+  2. Arbeitnehmer der **Nichtanmeldung zustimmt**
+  3. die Voraussetzungen eines **Betriebsgeheimnisses** vorliegen
+* Wenn der Arbeitgeber der **Anmeldepflicht** nicht nachkommt, kann der Arbeitnehmer die Anmeldung **für den Arbeitgeber auf dessen Namen und Kosten** bewirken
+* Arbeitgeber ist **berechtigt** auch im Ausland anzumelden
+* in **ausländischen Staaten** in denen der Arbeitgeber Schutzrechte **nicht erwerben** will, hat er dem **Arbeitnehmer die Diensterfindung freizugeben**
+
+#####Aufgabe von Schutzrechten
+* Wenn Arbeitgeber vor der Vergütung die Diensterfindung nicht mehr weiterverfolgen will, hat er dem Arbeitnehmer das Recht zu übertragen
+* Wenn der Arbeitnehmer nicht innerhalb von drei Monaten die Übertragung verlangt, ist der Arbeitgeber berechtigt das Recht aufzugeben
+
+####Behandlung von freien Erfindungen
+* Arbeitnehmer muss Arbeitgeber ein Recht zur Benutzung der Erfindung anbieten, wenn es in den Betriebsbereich des Arbeitgegebrs fällt
+* Nimmt er innerhalb von 3 Monaten nicht an erlischt das Vorrecht
+
+####Unbilligkeit (nicht angemessen)
+Die Vereinbarungen über Diensterfindungen, freie Erfindungen oder tech. Verbesserungsvorschläge sind **unwirksam, wenn sie unbillig sind**
+
+####Schiedsverfahren
+* In **Streitfällen zwischen Arbeitgeber und Arbeitnehmer** kann **jederzeit die Schiedsstelle beim DPMA** durch **schriftlichen Antrag** angerufen werden
+* Der andere Beteiligte wird unter Fristsetzung **zur Stellungnahme** aufgefordert
+* Schiedsstelle hat den Beteiligten einen **Einigungsvorschlag**
+* Keine Gebühren oder Auslagen
+* Spruch der Schiedsstelle ist nicht verbindlich sondern als ein Vorschlag zu sehen
+#####Keine Einigung vor der Schiedstelle (erfolglos beendet) wenn
+  1. der andere Beteilige sich nicht innerhalb der Frist äußert
+  2. er es ablehnt, sich auf das Verfahren vor der Schiedsstelle einzulassen
+  3. fristgerecht ein schriftl. Widerspruch eines Beteiligten eingeht
+
+####Gerichtliches Verfahren
+Erst nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist  
+Bei den für Patentstreitsachen zuständigen Gerichte
+
+####Erfindungen an Hochschulen
+* Erfindungen aller Beschäftigten an Hochschulen (Professoren, wiss bzw. studentische Mitarbeiter, techn. Personal)
+* **Nicht erfasst** werden Mitarbeiter die aufgrund eines anderweitigen Rechtsverhältnisses bei der Hochschule tätig sind (Mitarbeiter des Professors, Kooperationspartner) **und** welche bei denen kein Beschäftigungsverhältnis vorliegt (Studenten, Gastdozenten)
+
+#####Sonderregeln bei Erfindungen an Hochschulen
+  1. Erfinder ist berechtigt, die Diensterfindung zu **offenbaren** wenn er dies dem Dienstherrn **2 Monate zuvor** angezeigt hat
+  2. Lehnt Erfinder die Offenbarung der Diensterfindung ab, ist er **nicht verpflichtet**, die Erfindung seinem Dienstherrn **zu melden**
+  3. Dem **Erfinder** bleibt ein **nicht ausschließliches Recht zur Benutzung** im Rahmen seiner Lehr- und Forschungstätigkeit
+  4. Höhe der Vergütung bei Verwertung **30%** der durch die Verwertung erzielten Einnahmen
 
 5 Zusammenfassung
 =================
